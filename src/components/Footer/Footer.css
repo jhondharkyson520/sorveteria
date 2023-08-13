@@ -1,0 +1,43 @@
+.container{
+    display: flex;
+    width: 100%;
+    flex-direction: column;
+    background-color: #FFE9C0;
+}
+
+.container-footer{
+    background-color: #E07CA1;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+.logo{
+    width: 10%;
+    border: 0;
+}
+
+.insta-icon{
+    color: black;
+}
+.insta-icon:hover{
+    transform: scale(1.5);
+    cursor: pointer;
+}
+
+.whats-icon{
+    margin-top: 15px;
+    margin-left: 20px;
+}
+.whats-icon:hover{
+    transform: scale(1.5);
+    cursor: pointer;
+}
+
+.redes-sociais{
+    display: inline-block;
+    margin-bottom: 20px;
+}

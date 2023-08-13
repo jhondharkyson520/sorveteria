@@ -1,0 +1,88 @@
+.container{
+    display: flex;
+    width: 100%;
+    flex-direction: column;
+    background-color: #FFE9C0;
+}
+
+.img-uni{
+    margin-top: 85px;
+    margin-left: 25%;
+    margin-right: 25%;
+    display: flex; 
+    width: 55%;
+    flex-direction: column;
+}
+
+.uniduni-image{
+    border-radius: 15px;
+}
+
+.products{
+    margin-top: 30px;
+    background-color: #FFE9C0;
+    margin-bottom: 100%;
+}
+
+.products-text{
+    display: flex;
+    flex-direction: column;
+    padding: 20px;
+    background-color: #E07CA1;
+    color: #FFF;
+    width: 57%;
+    margin-left: 43%;
+    font-family: cursive;
+    font-weight: bold;
+    text-decoration: none;
+    font-size: 20px;
+    border-radius: 8px;
+}
+
+.picole{
+    width: 30%;
+    margin-top: 20px;
+    margin-left: 70px;
+    border-radius: 8px;
+    position: absolute;
+    
+}
+
+.sundae{
+    width: 30%;
+    margin-left: 50%;
+    margin-top: 20%;
+    border-radius: 8px;
+    position: absolute;
+}
+
+.milkshake{
+    width: 30%;
+    border-radius: 8px;
+    margin-top: 35%;
+    margin-left: 70px;
+    position: absolute;
+}
+
+.mixmaracuja{
+    width: 30%;
+    margin-left: 50%;
+    margin-top: 53%;
+    border-radius: 8px;
+    position: absolute;
+}
+
+.bolo{
+    width: 30%;
+    margin-top: 50px;
+    border-radius: 8px;
+    margin-top: 68%;
+    margin-left: 70px;
+    position: absolute;
+}
+
+.onde-tem{
+    background-color: #E07CA1;
+}
+
+
