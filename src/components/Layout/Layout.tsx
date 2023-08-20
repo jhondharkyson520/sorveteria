@@ -5,6 +5,9 @@ import sundae from '../../assets/sundae.jpeg'
 import mixmaracuja from '../../assets/mixmaracuja.jpeg'
 import milkshake from '../../assets/milkshake.jpeg'
 import bolo from '../../assets/bolo01.jpeg'
+import mixoreo from '../../assets/mixoreo.jpeg'
+
+
 
 function Layout (){
 
@@ -27,14 +30,17 @@ function Layout (){
                         Venha nos conhecer e saborear o melhor sovete! 
                     </p>
                 </div>
-                <div className='images'>
-                    <img className='picole' src={picole} alt="" />
-                    <img className='sundae' src={sundae} alt="" />
-                    <img className='milkshake' src={milkshake} alt="" />
-                    <img className='mixmaracuja' src={mixmaracuja} alt="" />
-                    <img className='bolo' src={bolo} alt="" />
-                </div>
             </div>
+            
+                <div className='images'>
+                        <img src={picole} alt="" />
+                        <img src={sundae} alt="" />
+                        <img src={milkshake} alt="" />              
+                        <img src={mixmaracuja} alt="" />
+                        <img src={bolo} alt="" />
+                        <img src={mixoreo} alt="" />
+                 </div>
+
 
            
 
